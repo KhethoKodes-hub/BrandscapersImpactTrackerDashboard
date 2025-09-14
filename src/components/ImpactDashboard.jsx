@@ -282,9 +282,9 @@ export default function ImpactDashboard() {
       <div className="max-w-7xl mx-auto">
         <header className="mb-8 flex flex-col items-center">
           {/* optional: replace with your logo path */}
-          <img src="/src/assets/logo-B.svg" alt="Logo" className="h-16 mb-4" /> 
+          <img src="/logo-B.svg" alt="Logo" className="h-16 mb-4" /> 
           <h1 className="text-3xl font-bold text-blue-800 text-center">
-            Brandscapers Africa — Impact Dashboard
+            Brandscapers Africa — Impact Tracker Dashboard
           </h1>
           <p className="text-md text-blue-600 text-center mt-2">
             Live snapshot of SMEs supported, youth trained, jobs created and businesses funded
