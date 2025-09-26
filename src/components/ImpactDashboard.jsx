@@ -518,7 +518,7 @@ export default function ImpactDashboard() {
         )}
 
         <footer className="text-center text-sm text-blue-600 pt-4 border-t border-blue-100 mt-8">
-          Built for Brandscapers Africa • Impact Dashboard
+          Built for Brandscapers Africa • Impact Tracker Dashboard
         </footer>
       </div>
     </div>
