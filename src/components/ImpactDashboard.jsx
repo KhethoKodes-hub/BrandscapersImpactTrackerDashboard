@@ -31,13 +31,13 @@ L.Icon.Default.mergeOptions({
 // ---------------------------
 // Your Google Sheets CSV URLs (already set)
 const METRICS_CSV_URL =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxR-xpkDovRsEqdqXjpgtuCeSf1ZdU1fjagSKswvB5kblOGDbg9ZPH6IQ5dW8swFLemuPl2BsGE2HG/pub?gid=0&single=true&output=csv";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRU9N7l6y2kzhAMtCg74nXA0T8aDfGvQBkac0RipVZsWRqyqof_66n6u-EP8Tr3sQTloEgz0n2Bn59y/pub?gid=0&single=true&output=csv";
 const TREND_CSV_URL =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxR-xpkDovRsEqdqXjpgtuCeSf1ZdU1fjagSKswvB5kblOGDbg9ZPH6IQ5dW8swFLemuPl2BsGE2HG/pub?gid=1359700021&single=true&output=csv";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRU9N7l6y2kzhAMtCg74nXA0T8aDfGvQBkac0RipVZsWRqyqof_66n6u-EP8Tr3sQTloEgz0n2Bn59y/pub?gid=1901505649&single=true&output=csv";
 const LOCATIONS_CSV_URL =
   "";
 const BENEFICIARIES_CSV_URL =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxR-xpkDovRsEqdqXjpgtuCeSf1ZdU1fjagSKswvB5kblOGDbg9ZPH6IQ5dW8swFLemuPl2BsGE2HG/pub?gid=1957397093&single=true&output=csv";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRU9N7l6y2kzhAMtCg74nXA0T8aDfGvQBkac0RipVZsWRqyqof_66n6u-EP8Tr3sQTloEgz0n2Bn59y/pub?gid=2007485460&single=true&output=csv";
 // ---------------------------
 
 // Canonical province coordinates (one pin per province)
